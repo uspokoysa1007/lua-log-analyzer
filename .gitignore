@@ -1,0 +1,5 @@
+*.luac
+releases/*.bat
+releases/*.luac
+!releases/
+!releases/source_code.zip
